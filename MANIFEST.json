@@ -1,0 +1,45 @@
+{
+  "repo_name": "alien_language",
+  "system_name": "Oraphine",
+  "version": "0.1.0",
+  "purpose": [
+    "invented alien writing system for art and prompting",
+    "cohesive glyph language for relics, seals, interfaces, and inscriptions",
+    "visual design system for nonhuman script generation",
+    "machine-readable symbolic library for repo-fed creative tools"
+  ],
+  "priority_sections": [
+    "docs/01_core_system",
+    "docs/03_semantics",
+    "docs/04_layout_modes",
+    "data/glyphs",
+    "data/prompts"
+  ],
+  "style_keywords": [
+    "sacred geometric",
+    "ceremonial",
+    "ancient-futuristic",
+    "biotech",
+    "signal-like",
+    "asymmetrical near-symmetry",
+    "mathematical",
+    "ritualistic"
+  ],
+  "primary_components": [
+    "stem",
+    "chamber",
+    "wedge",
+    "crescent",
+    "fork",
+    "node",
+    "bar",
+    "halo"
+  ],
+  "core_rules": [
+    "reuse recurring motifs",
+    "preserve shared visual DNA",
+    "avoid direct resemblance to real-world alphabets",
+    "prefer consistency over novelty",
+    "expand by mutation and recombination"
+  ]
+}

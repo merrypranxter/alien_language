@@ -1,0 +1,10 @@
+{
+  "categories": {
+    "noun_like": {"chambers": 2, "forks": 0, "wedges": 1},
+    "verb_like": {"forks": 2, "wedges": 1, "chambers": 0},
+    "sacred": {"halos": 1, "wedge_crowns": 1},
+    "warning": {"wedges": 2, "slashes": 1},
+    "identity": {"elevated": 1, "common": 3},
+    "interface": {"slashes": 1, "double_nodes": 1}
+  }
+}

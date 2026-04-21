@@ -1,0 +1,8 @@
+{
+  "assembly": {
+    "base": "include the master block at the beginning of a prompt",
+    "use_case": "add one use case description from data/prompts/use_cases.json",
+    "styles": "optionally append one or more style modules",
+    "constraints": "end with at least one anti-slop constraint"
+  }
+}

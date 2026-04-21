@@ -1,0 +1,7 @@
+{
+  "inscription_templates": {
+    "short_label": ["core", "core", "divider", "core"],
+    "long_band": ["core", "core", "elevated", "core", "divider", "core", "core"],
+    "seal": ["sigil", "core", "divider", "core", "core"]
+  }
+}

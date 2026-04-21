@@ -1,0 +1,8 @@
+{
+  "number_like_marks": [
+    {"id": "N001", "description": "Single node"},
+    {"id": "N002", "description": "Two stacked nodes"},
+    {"id": "N003", "description": "Three diagonal nodes"},
+    {"id": "N004", "description": "Node inside a ring"}
+  ]
+}

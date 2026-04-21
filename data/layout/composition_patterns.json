@@ -1,0 +1,9 @@
+{
+  "patterns": [
+    {"mode": "text_bands", "pattern": ["core", "core", "divider", "core", "elevated"]},
+    {"mode": "columns", "pattern": ["core", "core", "core", "divider", "sigil"]},
+    {"mode": "circular_seals", "pattern": ["sigil", "core", "core", "core"]},
+    {"mode": "interface_text", "pattern": ["core", "divider", "core"]},
+    {"mode": "relic_markings", "pattern": ["core", "core", "elevated", "divider"]}
+  ]
+}

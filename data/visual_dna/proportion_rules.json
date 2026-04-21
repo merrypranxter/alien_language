@@ -1,0 +1,8 @@
+{
+  "proportion_rules": {
+    "height_width_ratio": "2:1",
+    "tolerance": "variations allowed through accents and stack",
+    "line_weight": "medium uniform",
+    "fill": "dots and wedge bodies are filled"
+  }
+}

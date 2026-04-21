@@ -1,0 +1,7 @@
+{
+  "cluster_templates": [
+    ["common", "common", "modifier", "divider", "common"],
+    ["common", "elevated", "common", "divider", "sigil"],
+    ["common", "common", "common", "divider"]
+  ]
+}
