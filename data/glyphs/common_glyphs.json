@@ -1,0 +1,18 @@
+{
+  "common_glyphs": [
+    {
+      "id": "G001",
+      "name": "Right-Crescent Stem",
+      "anchor": "stem",
+      "components": ["stem", "crescent", "top_node"],
+      "description": "Vertical stem with small right crescent and one top dot"
+    },
+    {
+      "id": "G002",
+      "name": "Forked Eye Chamber",
+      "anchor": "chamber",
+      "components": ["eye_chamber", "fork_tail"],
+      "description": "Eye-shaped chamber with short lower fork"
+    }
+  ]
+}

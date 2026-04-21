@@ -1,0 +1,11 @@
+{
+  "semantic_roles": {
+    "chamber": "being or vessel",
+    "fork": "action or emission",
+    "wedge": "direction or command",
+    "crescent": "energy or psychic modifier",
+    "node": "count or emphasis",
+    "slash": "negation or corruption",
+    "halo": "sacredness or status"
+  }
+}

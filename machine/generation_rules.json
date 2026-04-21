@@ -1,0 +1,8 @@
+{
+  "rules": [
+    "Every glyph must have exactly one anchor element.",
+    "Anchors can be stems, chambers or wedges.",
+    "Modifiers must derive from the defined accent parts.",
+    "Compose clusters using defined glyph classes and divider marks."
+  ]
+}

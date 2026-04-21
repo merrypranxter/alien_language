@@ -1,0 +1,11 @@
+{
+  "elevated_glyphs": [
+    {
+      "id": "E017",
+      "name": "Crowned Eye Fork",
+      "anchor": "chamber",
+      "components": ["eye_chamber", "wedge_crown", "halo", "fork_tail"],
+      "description": "Tall chamber crowned by two wedges with a hanging lower fork"
+    }
+  ]
+}

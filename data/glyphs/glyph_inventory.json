@@ -1,0 +1,24 @@
+{
+  "glyphs": [
+    {
+      "id": "G001",
+      "name": "Right-Crescent Stem",
+      "class": "common",
+      "anchor": "stem",
+      "components": ["stem", "crescent", "top_node"],
+      "description": "Vertical stem with small right crescent and one top dot",
+      "semantic_bias": ["activation", "identity", "signal"],
+      "variants": ["double_top_node", "fork_tail", "thin_slash"]
+    },
+    {
+      "id": "G002",
+      "name": "Forked Eye Chamber",
+      "class": "common",
+      "anchor": "chamber",
+      "components": ["eye_chamber", "fork_tail"],
+      "description": "Eye-shaped chamber with short lower fork",
+      "semantic_bias": ["vessel", "object", "transmission"],
+      "variants": ["halo_above", "side_tick", "lower_node"]
+    }
+  ]
+}

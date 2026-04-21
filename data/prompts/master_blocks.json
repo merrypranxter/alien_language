@@ -1,0 +1,16 @@
+{
+  "prompt_blocks": [
+    {
+      "id": "MASTER_001",
+      "name": "Master Oraphine Prompt",
+      "type": "master",
+      "content": "invented alien written language, consistent glyph system, sacred geometric alien script, tall narrow glyphs built from repeating visual components: vertical stems, eye-shaped chambers, crescents, wedges, forked terminals, nodes, bars, and floating halo marks, asymmetrical near-symmetry, recurring syntax-like motifs, cohesive visual family, looks meaningful and structured rather than random, ceremonial yet functional, ancient-futuristic, mathematical and ritualistic"
+    },
+    {
+      "id": "CONSTRAINT_001",
+      "name": "Anti-Slop Constraint",
+      "type": "constraint",
+      "content": "avoid random decorative squiggles, avoid human letters, avoid obvious runes, avoid fake Arabic, avoid hieroglyph knockoffs, avoid logo-like icons, avoid inconsistent symbol families"
+    }
+  ]
+}

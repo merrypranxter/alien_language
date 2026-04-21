@@ -1,0 +1,7 @@
+{
+  "divider_marks": [
+    {"id": "D001", "name": "Single Node", "mark": "single solid dot"},
+    {"id": "D002", "name": "Double Nodes", "mark": "pair of vertical dots"},
+    {"id": "D003", "name": "Triple Triangle", "mark": "three nodes arranged in a triangle"}
+  ]
+}

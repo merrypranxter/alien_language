@@ -1,0 +1,8 @@
+{
+  "modifiers": [
+    {"id": "M001", "name": "Top Dot", "description": "Single dot placed above a glyph"},
+    {"id": "M002", "name": "Double Top Dot", "description": "Two dots placed above a glyph"},
+    {"id": "M003", "name": "Lower Dot", "description": "Dot hanging below a glyph"},
+    {"id": "M004", "name": "Thin Slash", "description": "Diagonal bar crossing through a glyph"}
+  ]
+}

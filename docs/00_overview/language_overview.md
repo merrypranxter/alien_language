@@ -1,0 +1,3 @@
+# Language Overview
+
+Oraphine is an invented alien glyph language designed for art and speculative world building. Its symbols are assembled from a small set of structural parts—vertical stems, enclosed chambers, wedges, crescents and forks—and accented with dots, bars and halo marks. The glyphs are tall and narrow, almost symmetrical but intentionally imperfect, evoking sacred geometry, ancient liturgy and biotechnological circuitry. Oraphine is meant to appear functional within its own logic rather than decorative noise; repeated motifs, strict construction rules and pseudo‑semantic behavior make the script feel coherent and meaningful even though it is not tied to a spoken language.

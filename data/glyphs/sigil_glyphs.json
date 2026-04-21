@@ -1,0 +1,11 @@
+{
+  "sigil_glyphs": [
+    {
+      "id": "S021",
+      "name": "Central Eye Seal",
+      "anchor": "chamber",
+      "components": ["eye_chamber", "broken_circle", "node_cluster"],
+      "description": "Central eye inside a broken circle with three outer nodes"
+    }
+  ]
+}

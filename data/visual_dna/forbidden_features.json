@@ -1,0 +1,9 @@
+{
+  "forbidden_features": [
+    "variable-width calligraphy",
+    "straight-runic strokes without curves",
+    "perfect logo symmetry",
+    "real-world letters or scripts",
+    "random decorative squiggles with no motif"
+  ]
+}
